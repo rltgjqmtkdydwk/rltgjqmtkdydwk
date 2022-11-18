@@ -1,4 +1,5 @@
 ### Hi there 👋
+@rltgjqmtkdydwk
 <br>
 
 **_blog_** 
@@ -20,8 +21,8 @@ Here are some ideas to get you started:
 >club: GDSC, 
 
 - 🌱 I’m currently learning ...
->language: Python, Javascript, Dart, 
->class: SW, AI, 
+> language: Python, Javascript, Dart, 
+> class: SW, AI, 
 
 - 👯 I’m looking to collaborate on ...
 
