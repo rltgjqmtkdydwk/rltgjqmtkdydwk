@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 > 와 정말 재밌다
-
-<br>
-<br>
 <br>
 
 ```
