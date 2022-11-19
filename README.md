@@ -16,29 +16,21 @@ Here are some ideas to get you started:
 -->
 
 #### introduction
-- 🔭 I’m currently working on ...
->school: SKHU
->club: GDSC, 
+- 🔭 I’m currently working on SKHU GDSC 
 
-- 🌱 I’m currently learning ...
-> language: Python, Javascript, Dart, 
-> class: SW, AI, 
+- 🌱 I’m currently learning Python, Dart, Javascript
 
 - 👯 I’m looking to collaborate on ...
 
 - 🤔 I’m looking for help with ...
-> study coding
-> caus I'm too serious newbie...............
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me: ...
-> [📬 e-mail](#e-mail)
+- 📫 How to reach me: [📬 e-mail](#e-mail)
 
 - 😄 Pronouns: ...
 
-- ⚡ Fun fact: ...
-> 와 정말 재밌다
+- ⚡ Fun fact: 와 재밌다
 <br>
 
 ```
