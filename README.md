@@ -1,24 +1,21 @@
-### Hi there 👋
-@rltgjqmtkdydwk
+## Welcom to @rltgjqmtkdydwk's github repository.
 <br>
 
-#### **_blog_** 
+### **_blog_** 
 | [velog - rltgjqmtkdydwk.log](https://velog.io/@rltgjqmtkdydwk) 
-#### **_e-mail_**
+### **_e-mail_**
 | slvrcods22@gmail.com 
-| eunvio1107@naver.com 
 <br>
 
 <!--
+### Hi there 👋
 **rltgjqmtkdydwk/rltgjqmtkdydwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-
 #### introduction
-- 🔭 I’m currently working on SKHU GDSC 
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning Python, Dart, Javascript
+- 🌱 I’m currently learning ...
 
 - 👯 I’m looking to collaborate on ...
 
@@ -26,14 +23,20 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me: [📬 e-mail](#e-mail)
+- 📫 How to reach me: ...
 
 - 😄 Pronouns: ...
 
-- ⚡ Fun fact: 와 재밌다
+- ⚡ Fun fact: 
+-->
+
+### introduction
+- 🌱 I’m currently learning Python, Dart, Javascript
+
+- 🤔 I’m looking for help with flutter project
+
+- 📫 How to reach me: [📬 e-mail](#e-mail)
+
 <br>
 
-```
-print("hello, world!")
-```
-이거 유용하다 https://dillinger.io/
+![Eunchong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rltgjqmtkdydwk&show_icons=true&theme=dracula)
