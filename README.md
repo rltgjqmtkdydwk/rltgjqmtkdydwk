@@ -30,8 +30,6 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kipykari0)](https://solved.ac/kipykari0)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kipykari0&theme=dark)
 
 
 <!--
