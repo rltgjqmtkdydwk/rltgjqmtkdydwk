@@ -6,7 +6,6 @@
 
 ## Introduction🐱
 - 🌱 I’m currently learning SW and AI.
-- 🤔 I’m looking for help with Programming study.
 - 📫 How to reach me: <a href="slvrcods22@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"></a>
 
 ![EunchongKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=rltgjqmtkdydwk&show_icons=true&theme=rose_pine)
